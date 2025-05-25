@@ -6,5 +6,6 @@ phpinfo();
 // モジュール情報だけを表示します。
 // phpinfo(8) としても同じです。
 phpinfo(INFO_MODULES);
+qqq
 
 ?>
